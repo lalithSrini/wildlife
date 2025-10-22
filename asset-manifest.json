@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Psychology%20of%20learning%20Quiz-NPTEL/static/css/main.89ab0583.css",
-    "main.js": "/Psychology%20of%20learning%20Quiz-NPTEL/static/js/main.42a767ce.js",
-    "static/js/453.014d93f4.chunk.js": "/Psychology%20of%20learning%20Quiz-NPTEL/static/js/453.014d93f4.chunk.js",
-    "index.html": "/Psychology%20of%20learning%20Quiz-NPTEL/index.html",
-    "main.89ab0583.css.map": "/Psychology%20of%20learning%20Quiz-NPTEL/static/css/main.89ab0583.css.map",
-    "main.42a767ce.js.map": "/Psychology%20of%20learning%20Quiz-NPTEL/static/js/main.42a767ce.js.map",
-    "453.014d93f4.chunk.js.map": "/Psychology%20of%20learning%20Quiz-NPTEL/static/js/453.014d93f4.chunk.js.map"
+    "main.css": "/lalithSrini/wildlife/static/css/main.131392a0.css",
+    "main.js": "/lalithSrini/wildlife/static/js/main.299d6f25.js",
+    "static/js/453.3daa4e8f.chunk.js": "/lalithSrini/wildlife/static/js/453.3daa4e8f.chunk.js",
+    "index.html": "/lalithSrini/wildlife/index.html",
+    "main.131392a0.css.map": "/lalithSrini/wildlife/static/css/main.131392a0.css.map",
+    "main.299d6f25.js.map": "/lalithSrini/wildlife/static/js/main.299d6f25.js.map",
+    "453.3daa4e8f.chunk.js.map": "/lalithSrini/wildlife/static/js/453.3daa4e8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89ab0583.css",
-    "static/js/main.42a767ce.js"
+    "static/css/main.131392a0.css",
+    "static/js/main.299d6f25.js"
   ]
 }
