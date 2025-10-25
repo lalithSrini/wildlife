@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lalithSrini/wildlife/static/css/main.131392a0.css",
-    "main.js": "/lalithSrini/wildlife/static/js/main.6c51cecc.js",
+    "main.js": "/lalithSrini/wildlife/static/js/main.5dc45d55.js",
     "static/js/453.3daa4e8f.chunk.js": "/lalithSrini/wildlife/static/js/453.3daa4e8f.chunk.js",
     "index.html": "/lalithSrini/wildlife/index.html",
     "main.131392a0.css.map": "/lalithSrini/wildlife/static/css/main.131392a0.css.map",
-    "main.6c51cecc.js.map": "/lalithSrini/wildlife/static/js/main.6c51cecc.js.map",
+    "main.5dc45d55.js.map": "/lalithSrini/wildlife/static/js/main.5dc45d55.js.map",
     "453.3daa4e8f.chunk.js.map": "/lalithSrini/wildlife/static/js/453.3daa4e8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.131392a0.css",
-    "static/js/main.6c51cecc.js"
+    "static/js/main.5dc45d55.js"
   ]
 }
